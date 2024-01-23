@@ -374,6 +374,11 @@ background-size: cover;
     input{
         border: solid ;
     }
+
+    footer .footer-contaiener .footer-box-1 form  button img {
+        width: 20px;
+        height: 20px;
+    }
   
 
 
