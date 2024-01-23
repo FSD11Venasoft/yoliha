@@ -164,7 +164,7 @@
         width: 479px;
     }
     footer{
-        height: 830px;
+        height: 690px;
 
     }
     .footer-contaiener{
@@ -179,15 +179,15 @@
         transform: translateX(80px);
     }
     .footer-box-1{
-        transform: translateX(80px);
+        transform: translateX(120px);
     }
     .footer-box-2{
-        transform: translateX(-290px)
+        transform: translateX(-200px)
         translateY(200px);
     }
     .footer-box-3{
-        transform: translateX(260px)
-        translateY(30px);
+        transform: translateX(-120px)
+        translateY(195px);
     }
     
     .creater {
